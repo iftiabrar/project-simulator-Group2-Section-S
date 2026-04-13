@@ -1,2 +1,4 @@
 "# Implemented Features" 
 "## T-03: Made SignUp Page" 
+"## T-14: Implement User Login Page for gamers and host" 
+"## T-02: Implement User Login Page for gamers and host" 
